@@ -1,0 +1,1083 @@
+﻿Log file open, 01/17/22 15:29:58
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MonsterSword
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.430053
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1660 SUPER
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=uhbbang3 -epicuserid=11c54b47b8444208ba381584ee24358f -epiclocale=ko -epicsandboxid=ue
+LogInit: Base Directory: D:/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+[2022.01.17-06.29.58:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.17-06.29.58:932][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+[2022.01.17-06.29.58:932][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+[2022.01.17-06.29.58:940][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.17-06.29.58:940][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.17-06.29.58:941][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.17-06.29.58:941][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.17-06.29.58:941][  0]LogHAL: Display: Platform has ~ 32 GB [34287702016 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.17-06.29.58:941][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.17-06.29.58:941][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.17-06.29.58:941][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Scalability.ini]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.17-06.29.58:942][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.17-06.29.58:943][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.17-06.29.58:943][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.17-06.29.58:943][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.17-06.29.58:943][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Engine.ini]
+[2022.01.17-06.29.58:943][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/StudyUE/Monster-Sword/MonsterSword/Saved/Config/Windows/Editor.ini]
+[2022.01.17-06.29.58:943][  0]LogInit: Computer: DESKTOP-RQRL21P
+[2022.01.17-06.29.58:943][  0]LogInit: User: ansdn
+[2022.01.17-06.29.58:943][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.01.17-06.29.58:943][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.17-06.29.58:943][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.01.17-06.29.58:943][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.17-06.29.58:943][  0]LogMemory: Process Physical Memory: 141.85 MB used, 141.86 MB peak
+[2022.01.17-06.29.58:943][  0]LogMemory: Process Virtual Memory: 113.09 MB used, 113.09 MB peak
+[2022.01.17-06.29.58:943][  0]LogMemory: Physical Memory: 10229.32 MB used,  22469.98 MB free, 32699.30 MB total
+[2022.01.17-06.29.58:943][  0]LogMemory: Virtual Memory: 134193192.00 MB used,  24531.90 MB free, 134217728.00 MB total
+[2022.01.17-06.29.58:951][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.17-06.29.58:998][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.17-06.29.58:999][  0]LogInit: Using OS detected language (ko-KR).
+[2022.01.17-06.29.58:999][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.01.17-06.29.59:001][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.01.17-06.29.59:105][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.17-06.29.59:124][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.17-06.29.59:135][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.17-06.29.59:135][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.17-06.29.59:297][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.17-06.29.59:297][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.17-06.29.59:297][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.17-06.29.59:297][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.17-06.29.59:389][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 SUPER' (Feature Level 11_0)
+[2022.01.17-06.29.59:389][  0]LogD3D11RHI:       5991/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.17-06.29.59:391][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.17-06.29.59:391][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.17-06.29.59:392][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.01.17-06.29.59:398][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.17-06.29.59:398][  0]LogD3D11RHI:     GPU DeviceId: 0x21c4 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.17-06.29.59:398][  0]LogWindows: EnumDisplayDevices:
+[2022.01.17-06.29.59:399][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 SUPER' (P:1 D:1)
+[2022.01.17-06.29.59:399][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.01.17-06.29.59:399][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.01.17-06.29.59:400][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 SUPER' (P:0 D:0)
+[2022.01.17-06.29.59:400][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.01.17-06.29.59:400][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 SUPER
+[2022.01.17-06.29.59:400][  0]LogD3D11RHI:   Driver Version: 457.30 (internal:27.21.14.5730, unified:457.30)
+[2022.01.17-06.29.59:400][  0]LogD3D11RHI:      Driver Date: 11-6-2020
+[2022.01.17-06.29.59:400][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.01.17-06.29.59:461][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.17-06.29.59:461][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.17-06.29.59:461][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.17-06.29.59:490][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.17-06.29.59:491][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.17-06.29.59:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.17-06.29.59:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.17-06.29.59:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.17-06.29.59:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.17-06.29.59:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.17-06.29.59:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.17-06.29.59:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.17-06.29.59:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.17-06.29.59:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.17-06.29.59:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.17-06.29.59:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.17-06.29.59:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.17-06.29.59:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.17-06.29.59:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.17-06.29.59:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.17-06.29.59:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.17-06.29.59:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.17-06.29.59:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.17-06.29.59:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.17-06.29.59:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.17-06.29.59:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.17-06.29.59:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.17-06.29.59:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.17-06.29.59:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.17-06.29.59:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.17-06.29.59:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.17-06.29.59:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.17-06.29.59:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.17-06.29.59:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.17-06.29.59:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.17-06.29.59:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.17-06.29.59:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.17-06.29.59:969][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.17-06.29.59:976][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.17-06.30.00:033][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.17-06.30.00:033][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (../../../../../StudyUE/Monster-Sword/MonsterSword/Intermediate/Shaders/WorkingDirectory/20100/).
+[2022.01.17-06.30.00:033][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ansdn/AppData/Local/Temp/UnrealShaderWorkingDir/57FD5BF347F2314565A67E903F54CE54/'.
+[2022.01.17-06.30.00:033][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.17-06.30.00:033][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.17-06.30.00:671][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.17-06.30.00:721][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/ansdn/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.17-06.30.00:721][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ansdn/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.01.17-06.30.00:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../StudyUE/Monster-Sword/MonsterSword/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.17-06.30.00:721][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.17-06.30.00:721][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../StudyUE/Monster-Sword/MonsterSword/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.17-06.30.00:721][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.17-06.30.00:734][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.17-06.30.00:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.17-06.30.00:734][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.17-06.30.00:745][  0]LogDerivedDataCache: Speed tests for C:/Users/ansdn/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.17-06.30.00:745][  0]LogDerivedDataCache: Display: Performance to C:/Users/ansdn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=742.21MBs, RandomWriteSpeed=100.25MBs. Assigned SpeedClass 'Local'
+[2022.01.17-06.30.00:746][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ansdn/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.17-06.30.00:746][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.17-06.30.00:746][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.17-06.30.00:788][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.17-06.30.00:789][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.17-06.30.00:811][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2022.01.17-06.30.01:020][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.17-06.30.01:020][  0]LogInit: Active device profile: [0000014DD5C82300][0000014DD5A3BD00 49] Windows
+[2022.01.17-06.30.01:020][  0]LogInit: Profiles: [0000014DD5C82300][0000014DD5A3BD00 49] Windows, [0000014DD5B86E00][0000014DD5A421C0 49] WindowsNoEditor, [0000014DD5C81100][0000014DD5A46340 49] WindowsServer, [0000014DD5B87F00][0000014DD5A8C4C0 49] WindowsClient, [0000014DD5C82500][0000014DD5A90640 49] IOS, [0000014DD5B84700][0000014DD5A9A7C0 49] iPadAir, [0000014DD5C83200][0000014DD5A9E940 49] iPadAir2, [0000014DD6966500][0000014DD5AACC00 49] IPadPro, [0000014DD6966600][0000014DD5AA2C40 49] iPadAir3, [0000014DD5B87000][0000014DD5AB6DC0 49] iPadAir4, [0000014DD6967D00][0000014DD5ABAF40 49] iPadMini2, [0000014DD5B84600][0000014DD6CFF0C0 49] iPadMini3, [0000014DD6965600][0000014DD6D03240 49] iPadMini4, [0000014DD5B86800][0000014DD6D073C0 49] iPadMini5, [0000014DD6995E00][0000014DD5A3F640 49] iPhone6, [0000014DD6995F00][0000014DD6D0B680 49] iPodTouch6, [0000014DD6965B00][0000014DD6DC98C0 49] iPhone7, [0000014DD6965A00][0000014DD6DC5900 49] iPodTouch7, [0000014DD6997500][0000014DD6E8DA80 49] iPhone5S, [0000014DD6965300][0000014DD6E91C00 49] iPhone6Plus, [0000014DD6995800][0000014DC97B60C0 49] iPhone6S, [0000014DD6966C00][0000014DC97BA240 49] iPhone6SPlus, [0000014DD6994900][0000014DC97BE3C0 49] iPhone7Plus, [0000014DD6966400][0000014DC97C2540 49] iPhoneSE, [0000014DD6997100][0000014DC97C66C0 49] iPhone8, [0000014DD6964800][0000014DC97CA840 49] iPhone8Plus, [0000014DD6996B00][0000014DC97CE9C0 49] iPhoneX, [0000014DD6964D00][0000014DC97D2B40 49] iPhoneXS, [0000014DD6996500][0000014DC97D6CC0 49] iPhoneXSMax, [0000014DD6966100][0000014DC97DAE40 49] iPhoneXR, [0000014DD6997600][0000014DC97DEFC0 49] iPhone11, [0000014DD6967600][0000014DC97E3140 49] iPhone11Pro, [0000014DD6996800][0000014DC97E72C0 49] iPhone11ProMax, [0000014DD6967200][0000014DC97EB440 49] iPhoneSE2, [0000014DD6994700][0000014DC97EF5C0 49] iPhone12Mini, [0000014DD6967F00][0000014DD6E89700 49] iPhone12, [0000014DD6994600][0000014DD6E95840 49] iPhone12Pro, [0000014DD6995600][0000014DD6E99980 49] iPhone12ProMax, [0000014DD5C83D00][0000014DD6E9DAC0 49] iPadPro105, [0000014DD6994300][0000014DD6EA5C40 49] iPadPro129, [0000014DD5C82100][0000014DD6EA8100 49] iPadPro97, [0000014DD6996300][0000014DD6EAC280 49] iPadPro2_129, [0000014DD5C81F00][0000014DD6EB0400 49] iPad5, [0000014DD6964600][0000014DD6EB4580 49] iPad6, [0000014DD5C80900][0000014DD6EB8700 49] iPad7, [0000014DD6964E00][0000014DD6EBC880 49] iPad8, [0000014DD5C81500][0000014DD6EC0A00 49] iPadPro11, [0000014DD6967500][0000014DD6EC4B80 49] iPadPro2_11, [0000014DD5C81700][0000014DD6EC8D00 49] iPadPro3_129, [0000014DD6964100][0000014DD6ECCE80 49] iPadPro4_129, [0000014DD5C82700][0000014DD571B000 49] AppleTV, [0000014DD6964C00][0000014DD571F180 49] AppleTV4K, [0000014DD5C80800][0000014DD5723300 49] TVOS, [0000014DD6964300][0000014DD5727480 49] Mac, [0000014DD5C80C00][0000014DD572B600 49] MacClient, [0000014DD6964A00][0000014DD6EA1740 49] MacNoEditor, [0000014DD5C81600][0000014DD572F880 49] MacServer, [0000014DD6966700][0000014DD57339C0 49] Linux, [0000014DD5C80600][0000014DD5737B00 49] LinuxAArch64, [0000014DD6966D00][0000014DD573FC80 49] LinuxNoEditor, [0000014DD5C81B00][0000014DD5742140 49] LinuxAArch64NoEditor, [0000014DD6966E00][0000014DD57462C0 49] LinuxClient, [0000014DD5C80A00][0000014DD574A440 49] LinuxAArch64Client, [0000014DD6967700][0000014DD574E5C0 49] LinuxServer, [0000014DD5C81300][0000014DD5752740 49] LinuxAArch64Server, [0000014DD6964B00][0000014DD57568C0 49] Android, [0000014DD5C83700][0000014DD575AA40 49] Android_Low, [0000014DD6967B00][0000014DD575EBC0 49] Android_Mid, [0000014DD5C82A00][0000014DD5762D40 49] Android_High, [0000014DD6967E00][0000014DD5766EC0 49] Android_Default, [0000014DD5C80700][0000014DD576B040 49] Android_Adreno4xx, [0000014DD6966200][0000014DD576F1C0 49] Android_Adreno5xx_Low, [0000014DD5C82200][0000014DD5773340 49] Android_Adreno5xx, [0000014DD6965400][0000014DD57A74C0 49] Android_Adreno6xx, [0000014DD5C83300][0000014DD57AB640 49] Android_Adreno6xx_Vulkan, [0000014DD6966900][0000014DD57AF7C0 49] Android_Mali_T6xx, [0000014DD5C81A00][0000014DD573B900 49] Android_Mali_T7xx, [0000014DD6965700][0000014DD57B3A40 49] Android_Mali_T8xx, [0000014DD5C80D00][0000014DD57B7B80 49] Android_Mali_G71, [0000014DD6965D00][0000014DD32F3D00 49] Android_Mali_G72, [0000014DD5C82800][0000014DD32F61C0 49] Android_Mali_G72_Vulkan, [0000014DD6965500][0000014DD32FA340 49] Android_Mali_G76, [0000014DD5C83600][0000014DD32FE4C0 49] Android_Mali_G76_Vulkan, [0000014DD6964F00][0000014DD3302640 49] Android_Mali_G77, [0000014DD5C81E00][0000014DD33067C0 49] Android_Mali_G77_Vulkan, [0000014DD6995B00][0000014DD330A940 49] Android_Vulkan_SM5, [0000014DD5B85F00][0000014DD330EAC0 49] Android_PowerVR_G6xxx, [0000014DD6995C00][0000014DD3312C40 49] Android_PowerVR_GT7xxx, [0000014DD5B86F00][0000014DD57BEDC0 49] Android_PowerVR_GE8xxx, [0000014DD6996E00][0000014DD57C2F40 49] Android_PowerVR_GM9xxx, [0000014DD5B84E00][0000014DD57C70C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000014DD6994A00][0000014DD57CB240 49] Android_TegraK1, [0000014DD5B87600][0000014DD57CF3C0 49] Android_Unknown_Vulkan, [0000014DD6997400][0000014DD57D3540 49] Lumin, [0000014DD5B86100][0000014DD57D76C0 49] Lumin_Desktop, [0000014DD6997B00][0000014DD57DB840 49] HoloLens, 
+[2022.01.17-06.30.01:063][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.17-06.30.01:063][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.17-06.30.01:063][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.17-06.30.01:063][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.17-06.30.01:063][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.17-06.30.01:130][  0]LogNetVersion: MonsterSword 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4244162725)
+[2022.01.17-06.30.01:515][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.17-06.30.01:543][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.027237 seconds
+[2022.01.17-06.30.01:548][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.01.17-06.30.01:548][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.01.17-06.30.01:548][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.17-06.30.01:886][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.17-06.30.01:892][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.17-06.30.02:049][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.17-06.30.02:049][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.17-06.30.02:067][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.17-06.30.02:075][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.17-06.30.02:089][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.17-06.30.02:092][  0]LogUProjectInfo: Found projects:
+[2022.01.17-06.30.02:143][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.17-06.30.02:161][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.17-06.30.02:161][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.17-06.30.02:275][  0]LogOcInput: OculusInput pre-init called
+[2022.01.17-06.30.02:284][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.01.17-06.30.02:285][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.01.17-06.30.02:292][  0]LogCollectionManager: Loaded 0 collections in 0.000669 seconds
+[2022.01.17-06.30.02:343][  0]LogFileCache: Scanning file cache for directory 'D:/StudyUE/Monster-Sword/MonsterSword/Saved/Collections/' took 0.00s
+[2022.01.17-06.30.02:343][  0]LogFileCache: Scanning file cache for directory 'D:/StudyUE/Monster-Sword/MonsterSword/Content/Developers/ansdn/Collections/' took 0.00s
+[2022.01.17-06.30.02:344][  0]LogFileCache: Scanning file cache for directory 'D:/StudyUE/Monster-Sword/MonsterSword/Content/Collections/' took 0.00s
+[2022.01.17-06.30.02:344][  0]LogEngine: Initializing Engine...
+[2022.01.17-06.30.02:375][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.17-06.30.02:392][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.17-06.30.02:393][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.17-06.30.02:482][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.17-06.30.02:490][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.17-06.30.02:498][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.17-06.30.02:502][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.17-06.30.02:502][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.17-06.30.02:502][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.17-06.30.02:502][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.17-06.30.02:502][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.17-06.30.02:515][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.17-06.30.02:515][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.17-06.30.02:554][  0]LogAudioMixer: Display: Using Audio Device 스피커(Razer USB Sound Card)
+[2022.01.17-06.30.02:558][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.17-06.30.02:560][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.17-06.30.02:560][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.17-06.30.02:561][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.17-06.30.02:561][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.17-06.30.02:561][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.17-06.30.02:561][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.17-06.30.02:562][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.17-06.30.02:562][  0]LogInit: FAudioDevice initialized.
+[2022.01.17-06.30.02:562][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.17-06.30.02:562][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.17-06.30.02:633][  0]LogDerivedDataCache: Saved boot cache 0.07s 77MB C:/Users/ansdn/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.01.17-06.30.02:633][  0]LogInit: Texture streaming: Enabled
+[2022.01.17-06.30.02:645][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.01.17-06.30.02:649][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.17-06.30.02:649][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.17-06.30.02:652][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.17-06.30.02:668][  0]LogInit: Transaction tracking system initialized
+[2022.01.17-06.30.02:688][  0]BlueprintLog: New page: 에디터 로드
+[2022.01.17-06.30.02:856][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.01.17-06.30.02:877][  0]TimingProfiler: Initialize
+[2022.01.17-06.30.02:877][  0]TimingProfiler: OnSessionChanged
+[2022.01.17-06.30.02:877][  0]LoadingProfiler: Initialize
+[2022.01.17-06.30.02:877][  0]LoadingProfiler: OnSessionChanged
+[2022.01.17-06.30.02:877][  0]NetworkingProfiler: Initialize
+[2022.01.17-06.30.02:877][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.17-06.30.02:877][  0]MemoryProfiler: Initialize
+[2022.01.17-06.30.02:877][  0]MemoryProfiler: OnSessionChanged
+[2022.01.17-06.30.03:164][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.17-06.30.03:164][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.17-06.30.03:304][  0]LogFileCache: Scanning file cache for directory 'D:/StudyUE/Monster-Sword/MonsterSword/Content/' took 0.07s
+[2022.01.17-06.30.03:445][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.17-06.30.03:449][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.01.17-06.30.03:449][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.573
+[2022.01.17-06.30.03:651][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/UE4/UE_4.26/FeaturePacks/StarterContent.upack)
+[2022.01.17-06.30.03:661][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-06.30.03:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.03:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-06.30.03:729][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.01.17-06.30.03:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.01.17-06.30.03:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.01.17-06.30.04:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.01.17-06.30.04:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.01.17-06.30.04:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.01.17-06.30.04:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.01.17-06.30.04:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.01.17-06.30.04:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.01.17-06.30.04:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.01.17-06.30.04:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.01.17-06.30.04:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.01.17-06.30.04:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.01.17-06.30.04:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.01.17-06.30.04:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.01.17-06.30.04:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.01.17-06.30.04:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.01.17-06.30.04:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.01.17-06.30.04:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Fire01.uasset"
+[2022.01.17-06.30.04:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.01.17-06.30.04:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.01.17-06.30.04:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.01.17-06.30.04:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Light01.uasset"
+[2022.01.17-06.30.04:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.01.17-06.30.04:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Light02.uasset"
+[2022.01.17-06.30.04:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.01.17-06.30.04:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.01.17-06.30.04:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.01.17-06.30.04:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.01.17-06.30.04:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.01.17-06.30.04:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.01.17-06.30.04:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.01.17-06.30.04:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.01.17-06.30.04:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.01.17-06.30.04:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Steam01.uasset"
+[2022.01.17-06.30.04:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.01.17-06.30.04:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.01.17-06.30.04:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.01.17-06.30.04:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.01.17-06.30.04:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.01.17-06.30.04:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.01.17-06.30.04:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.01.17-06.30.04:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.01.17-06.30.04:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.01.17-06.30.04:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.01.17-06.30.04:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.01.17-06.30.04:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.01.17-06.30.04:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.01.17-06.30.04:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.01.17-06.30.04:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.01.17-06.30.05:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.01.17-06.30.05:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.01.17-06.30.05:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.01.17-06.30.05:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.01.17-06.30.05:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.01.17-06.30.05:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.01.17-06.30.05:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.01.17-06.30.05:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Maps/StarterMap.umap"
+[2022.01.17-06.30.05:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.01.17-06.30.05:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.01.17-06.30.05:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.01.17-06.30.05:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.01.17-06.30.05:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.01.17-06.30.05:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.01.17-06.30.05:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.01.17-06.30.05:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.01.17-06.30.05:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.01.17-06.30.05:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.01.17-06.30.05:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.01.17-06.30.05:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.01.17-06.30.05:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.01.17-06.30.05:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.01.17-06.30.05:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.01.17-06.30.05:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.01.17-06.30.05:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.01.17-06.30.05:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.01.17-06.30.05:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.01.17-06.30.05:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.01.17-06.30.05:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.01.17-06.30.05:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.01.17-06.30.05:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.01.17-06.30.05:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.01.17-06.30.05:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.01.17-06.30.05:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.01.17-06.30.05:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.01.17-06.30.05:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.01.17-06.30.06:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.01.17-06.30.06:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.01.17-06.30.06:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.01.17-06.30.06:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.01.17-06.30.06:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.01.17-06.30.06:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.01.17-06.30.06:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.01.17-06.30.06:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.01.17-06.30.06:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.01.17-06.30.06:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.01.17-06.30.06:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.01.17-06.30.06:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.01.17-06.30.06:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.01.17-06.30.06:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.01.17-06.30.06:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.01.17-06.30.06:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.01.17-06.30.06:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.01.17-06.30.06:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.01.17-06.30.06:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.01.17-06.30.06:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.01.17-06.30.06:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.01.17-06.30.06:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.01.17-06.30.06:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.01.17-06.30.06:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.01.17-06.30.06:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.01.17-06.30.06:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.01.17-06.30.06:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.01.17-06.30.06:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.01.17-06.30.06:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.01.17-06.30.06:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.01.17-06.30.06:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.01.17-06.30.06:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.01.17-06.30.06:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.01.17-06.30.06:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.01.17-06.30.06:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.01.17-06.30.06:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.01.17-06.30.06:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.01.17-06.30.06:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Door.uasset"
+[2022.01.17-06.30.06:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.01.17-06.30.06:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.01.17-06.30.06:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.01.17-06.30.06:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.01.17-06.30.06:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.01.17-06.30.06:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.01.17-06.30.06:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.01.17-06.30.06:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.01.17-06.30.06:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.01.17-06.30.06:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.01.17-06.30.06:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.01.17-06.30.06:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.01.17-06.30.06:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.01.17-06.30.06:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.01.17-06.30.06:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.01.17-06.30.06:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.01.17-06.30.06:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.01.17-06.30.06:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.01.17-06.30.06:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.01.17-06.30.06:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.01.17-06.30.06:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.01.17-06.30.06:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.01.17-06.30.06:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.01.17-06.30.06:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.01.17-06.30.06:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.01.17-06.30.06:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.01.17-06.30.06:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.01.17-06.30.06:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.01.17-06.30.06:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.01.17-06.30.06:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.01.17-06.30.06:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.01.17-06.30.06:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.01.17-06.30.06:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.01.17-06.30.06:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.01.17-06.30.06:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.01.17-06.30.06:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.01.17-06.30.06:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.01.17-06.30.06:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.01.17-06.30.06:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.01.17-06.30.06:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.01.17-06.30.06:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.01.17-06.30.06:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.01.17-06.30.06:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.01.17-06.30.06:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.01.17-06.30.06:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.01.17-06.30.07:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.01.17-06.30.07:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.01.17-06.30.07:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.01.17-06.30.07:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.01.17-06.30.07:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.01.17-06.30.08:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.01.17-06.30.08:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.01.17-06.30.08:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.01.17-06.30.08:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.01.17-06.30.08:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.01.17-06.30.08:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.01.17-06.30.08:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.01.17-06.30.08:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.01.17-06.30.08:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.01.17-06.30.08:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.01.17-06.30.09:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.01.17-06.30.09:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.01.17-06.30.09:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.01.17-06.30.09:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.01.17-06.30.09:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.01.17-06.30.09:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.01.17-06.30.09:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.01.17-06.30.09:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.01.17-06.30.09:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.01.17-06.30.09:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.01.17-06.30.09:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.01.17-06.30.10:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.01.17-06.30.10:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.01.17-06.30.10:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.01.17-06.30.10:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.01.17-06.30.11:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.01.17-06.30.11:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.01.17-06.30.11:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.01.17-06.30.11:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.01.17-06.30.11:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.01.17-06.30.12:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.01.17-06.30.12:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.01.17-06.30.12:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.01.17-06.30.12:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.01.17-06.30.12:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.01.17-06.30.12:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.01.17-06.30.12:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.01.17-06.30.12:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.01.17-06.30.12:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.01.17-06.30.12:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.01.17-06.30.12:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.01.17-06.30.12:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.01.17-06.30.12:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.01.17-06.30.13:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.01.17-06.30.13:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.01.17-06.30.13:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.01.17-06.30.14:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.01.17-06.30.14:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.01.17-06.30.14:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.01.17-06.30.14:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.01.17-06.30.14:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.01.17-06.30.14:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.01.17-06.30.15:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.01.17-06.30.15:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.01.17-06.30.15:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.01.17-06.30.15:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.01.17-06.30.15:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.01.17-06.30.15:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.01.17-06.30.15:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.01.17-06.30.16:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.01.17-06.30.16:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.01.17-06.30.16:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.01.17-06.30.16:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.01.17-06.30.16:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.01.17-06.30.17:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.01.17-06.30.17:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.01.17-06.30.17:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.01.17-06.30.17:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.01.17-06.30.17:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.01.17-06.30.18:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.01.17-06.30.18:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.01.17-06.30.18:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.01.17-06.30.18:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.01.17-06.30.18:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.01.17-06.30.18:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.01.17-06.30.18:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.01.17-06.30.18:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.01.17-06.30.18:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.01.17-06.30.18:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.01.17-06.30.18:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.01.17-06.30.18:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.01.17-06.30.18:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.01.17-06.30.18:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.01.17-06.30.18:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.01.17-06.30.18:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.01.17-06.30.18:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.01.17-06.30.18:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.01.17-06.30.18:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.01.17-06.30.19:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.01.17-06.30.19:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.01.17-06.30.19:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.01.17-06.30.19:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.01.17-06.30.19:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.01.17-06.30.19:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.01.17-06.30.19:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.01.17-06.30.19:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.01.17-06.30.19:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.01.17-06.30.20:585][  0]LogStaticMesh: Floor_400x400 스태틱 메시 빌드중...
+[2022.01.17-06.30.20:606][  0]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.01.17-06.30.21:029][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.01.17-06.30.21:516][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2022.01.17-06.30.21:945][  0]LogSavePackage: Moving '../../../../../StudyUE/Monster-Sword/MonsterSword/Saved/Floor_400x400F40B4C84426F5C34570756A9F734B62B.tmp' to '../../../../../StudyUE/Monster-Sword/MonsterSword/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.01.17-06.30.21:975][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.01.17-06.30.21:975][  0]Cmd: MAP LOAD FILE="../../../../../StudyUE/Monster-Sword/MonsterSword/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.17-06.30.21:976][  0]LightingResults: New page: 라이팅 빌드
+[2022.01.17-06.30.21:976][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.17-06.30.21:976][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.17-06.30.21:976][  0]MapCheck: New page: 맵 체크
+[2022.01.17-06.30.21:976][  0]LightingResults: New page: 라이팅 빌드
+[2022.01.17-06.30.21:981][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.01.17-06.30.22:627][  0]LogTexture: Display: 텍스처 빌드: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.01.17-06.30.23:164][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.01.17-06.30.23:165][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.01.17-06.30.23:371][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.17-06.30.23:410][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.01.17-06.30.23:418][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.17-06.30.23:419][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.109ms.
+[2022.01.17-06.30.23:419][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.443
+[2022.01.17-06.30.23:439][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.563
+[2022.01.17-06.30.23:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-06.30.23:983][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-06.30.23:988][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-06.30.23:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.17-06.30.24:175][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3601 classes and 859 folders.
+[2022.01.17-06.30.24:575][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.17-06.30.24:576][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.17-06.30.24:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-06.30.24:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.01.17-06.30.24:576][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.17-06.30.24:576][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:576][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.17-06.30.24:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.01.17-06.30.24:577][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.17-06.30.24:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.17-06.30.24:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.01.17-06.30.24:577][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-06.30.24:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-06.30.24:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.01.17-06.30.24:578][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.17-06.30.24:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.17-06.30.24:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.01.17-06.30.24:578][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.17-06.30.24:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.17-06.30.24:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.01.17-06.30.24:579][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.17-06.30.24:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.17-06.30.24:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.01.17-06.30.24:579][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.17-06.30.24:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.17-06.30.24:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.17-06.30.24:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.17-06.30.24:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.17-06.30.24:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.01.17-06.30.24:581][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.17-06.30.24:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.17-06.30.24:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.01.17-06.30.24:581][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-06.30.24:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-06.30.24:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.01.17-06.30.24:582][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.17-06.30.24:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.17-06.30.24:582][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.01.17-06.30.24:582][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.17-06.30.24:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:582][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.17-06.30.24:582][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.01.17-06.30.24:583][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.17-06.30.24:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-06.30.24:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.01.17-06.30.24:583][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.17-06.30.24:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.17-06.30.24:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.01.17-06.30.24:584][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.17-06.30.24:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.17-06.30.24:584][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.01.17-06.30.24:585][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-06.30.24:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-06.30.24:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.01.17-06.30.24:585][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-06.30.24:585][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:585][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-06.30.24:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.01.17-06.30.24:586][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.17-06.30.24:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.17-06.30.24:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.01.17-06.30.24:586][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.17-06.30.24:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.17-06.30.24:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.17-06.30.24:587][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.17-06.30.24:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.17-06.30.24:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.01.17-06.30.24:587][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.17-06.30.24:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.17-06.30.24:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.01.17-06.30.24:588][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.17-06.30.24:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.17-06.30.24:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.01.17-06.30.24:588][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.17-06.30.24:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.17-06.30.24:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.17-06.30.24:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.01.17-06.30.24:617][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.17-06.30.24:645][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.17-06.30.25:048][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.17-06.30.25:051][  0]LogSlate: Took 0.001397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.01.17-06.30.25:053][  0]LogSlate: Took 0.001830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.01.17-06.30.25:053][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.17-06.30.25:088][  0]LogSlate: Took 0.011635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.17-06.30.25:454][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.01.17-06.30.26:099][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.17-06.30.26:260][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.01.17-06.30.26:260][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.01.17-06.30.26:260][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.01.17-06.30.26:260][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.01.17-06.30.26:260][  0]LogLoad: (Engine Initialization) Total time: 28.38 seconds
+[2022.01.17-06.30.26:260][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.17-06.30.26:260][  0]LogInit: First time updating LLM stats...
+[2022.01.17-06.30.26:335][  0]AssetCheck: New page: 애셋 저장: Floor_400x400
+[2022.01.17-06.30.26:335][  0]LogContentValidation: Display: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 유효성 검사
+[2022.01.17-06.30.26:374][  0]LogAssetRegistry: Asset discovery search completed in 25.5645 seconds
+[2022.01.17-06.30.26:375][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.01.17-06.30.26:376][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.17-06.32.02:721][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.17-06.32.03:625][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2022.01.17-06.44.09:145][406]LogSlate: Took 0.016066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.17-07.17.30:118][546]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.17-07.17.38:889][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.01.17-07.17.38:962][572]LogSavePackage: Moving '../../../../../StudyUE/Monster-Sword/MonsterSword/Saved/ThirdPersonExampleMap_Auto1DBB71FAF46E27B5A69EA95B54CC498F4.tmp' to '../../../../../StudyUE/Monster-Sword/MonsterSword/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.01.17-07.17.38:986][572]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.117
+[2022.01.17-07.17.38:986][572]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
